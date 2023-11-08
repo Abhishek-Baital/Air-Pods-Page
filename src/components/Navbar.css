@@ -1,0 +1,31 @@
+.ul1{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    padding-top: 10px;
+    padding-left: 15%;
+}
+
+.nav2{
+    display: flex;
+    padding-left: 15%;
+    gap: 10%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+}
+
+.right{
+    display: flex;
+    gap: 20px;
+}
+
+.button{
+    width: 70px;
+    height: 30px;
+}
+
+.para {
+    padding-left: 12%;
+    padding-bottom: 10px;
+}

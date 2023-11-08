@@ -1,0 +1,16 @@
+.content {
+    display: flex;
+    gap: 50px;
+    margin-left: 10%;
+}
+
+.points{
+    font-size: 12px;
+    margin-left: 10%;
+    margin-top: 40px;
+}
+
+.foot {
+    font-size: 12px;
+    margin-left: 10%;
+}
